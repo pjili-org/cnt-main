@@ -1,0 +1,91 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "wjMOkQePdr7qHD9RXHuKcSOcJZE=",
+			"path": "github.com/astaxie/beego",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "raJhf500jq7AzIGIclRQBo0B5+s=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "52Cnm/rmogm6vPa2jW9D6SuKm3g=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "PDNn16w89zWODshT9zlPzSmWZFA=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "3NghofZJDSzBRd0rPYaNa0Kr+DE=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "Zeh58fFq41Ym/YNH47O6gdm1Mh8=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "Mu2lA5Jq0tRk9MjhWllyzcJD6KU=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "x90ZIgNp0dy/saCS+4tBR3gdQ6g=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "88c5dfa6ead42e624c2e7d9e04eab6cb2d07412a",
+			"revisionTime": "2016-03-23T09:05:40Z"
+		},
+		{
+			"checksumSHA1": "00AIp+Y3Ie+32MNdBjOhYmWNmPU=",
+			"path": "github.com/jtolds/gls",
+			"revision": "f1ac7f4f24f50328e6bc838ca4437d1612a0243c",
+			"revisionTime": "2014-11-03T18:57:36Z"
+		},
+		{
+			"checksumSHA1": "aYR8DDDgwz9sXRA87QDW2UauPyA=",
+			"path": "github.com/smartystreets/assertions",
+			"revision": "75acd402ca38dc205641a826bb58b9de014926dd",
+			"revisionTime": "2015-03-02T20:53:52Z"
+		},
+		{
+			"checksumSHA1": "rqgEJwSwNrj5i8TJJdIK6GX2dHI=",
+			"path": "github.com/smartystreets/assertions/internal/oglematchers",
+			"revision": "75acd402ca38dc205641a826bb58b9de014926dd",
+			"revisionTime": "2015-03-02T20:53:52Z"
+		},
+		{
+			"checksumSHA1": "4tutPZW2aGlrtLGA+bpZLpI2FWs=",
+			"path": "github.com/smartystreets/goconvey/convey",
+			"revision": "1d9daca83fc3cf35d01b9d0ac2debad3453bf178",
+			"revisionTime": "2015-03-12T19:12:55Z"
+		},
+		{
+			"checksumSHA1": "8xkE9tU2zhnWRTFix8NgnRbCKm4=",
+			"path": "github.com/smartystreets/goconvey/convey/gotest",
+			"revision": "1d9daca83fc3cf35d01b9d0ac2debad3453bf178",
+			"revisionTime": "2015-03-12T19:12:55Z"
+		},
+		{
+			"checksumSHA1": "T1+qDLduuJE3AvJnAmkBDg6n9ZE=",
+			"path": "github.com/smartystreets/goconvey/convey/reporting",
+			"revision": "1d9daca83fc3cf35d01b9d0ac2debad3453bf178",
+			"revisionTime": "2015-03-12T19:12:55Z"
+		}
+	],
+	"rootPath": "github.com/pjili-org/cnt-main"
+}
