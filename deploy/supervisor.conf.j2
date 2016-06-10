@@ -1,0 +1,21 @@
+; {{ ansible_managed }} 
+
+[program:{{ owner }}-{{ project }}]
+command=/opt/{{ owner }}-{{ project }}/{{ owner }}-{{ project }}
+directory=/opt/{{ owner }}-{{ project }}
+autostart=true
+autorestart=true
+startsecs=15
+startretries=3
+exitcodes=0,2
+stopsignal=TERM
+stopwaitsecs=30
+stopasgroup=true
+killasgroup=true
+user={{ owner }}-{{ project }}
+stdout_logfile=/opt/{{ owner }}-{{ project }}/logs/out.log
+stdout_logfile_maxbytes=128MB
+stdout_logfile_backups=12
+stderr_logfile=/opt/{{ owner }}-{{ project }}/logs/err.log
+stderr_logfile_maxbytes=64MB
+stderr_logfile_backups=12
